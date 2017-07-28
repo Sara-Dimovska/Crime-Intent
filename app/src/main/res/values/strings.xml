@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crime App</string>
+
+    <string name="title">Enter a title for the crime</string>
+    <string name="titleCrime">Title:</string>
+    <string name="detailsCrime">Details:</string>
+    <string name="editTitle">Enter title here</string>
+    <string name="solved">Solved?</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="delete_crime">Delete</string>
+    <string name="empty_list_text">There is no list items!</string>
+    <string name="empty_list_txtx_button">Click here to insert</string>
+
+    <string name="crimes_title">Crimes</string>
+    <string name="crime_title">Crime Title</string>
+    <string name="date">Date</string>
+    <string name="chechbox">Solved</string>
+    <string name="textview">TextView</string>
+    <string name="date_picker_title">Date of crime:</string>
+</resources>
