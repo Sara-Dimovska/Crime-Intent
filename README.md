@@ -1,7 +1,7 @@
 # Crime-Intent
 android application 2 from the book "The Big Nerd Ranch guide"
 
-key points provided by the book:
+through building this app, the book provided knowledge of:
 
 - using and handling fragments (activity’s internal business)
    - the difference between the fragment lifecycle and the activity lifecycle is that fragment lifecycle methods are called by the hosting 
